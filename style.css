@@ -69,7 +69,7 @@ body
 }
 .profile-img
 {
-	height: 400px;
+	height: 500px;
 }
 .nav-bar
 {
@@ -182,7 +182,7 @@ color: #ccc;
 	height: 20px;
 	z-index: 1;
 }
-/*===============================================services=====================*/
+/*=============================================== services =====================*/
 .services
 {
 	padding-top: 50px;
@@ -241,82 +241,3 @@ color: #ccc;
 	background-size: cover;
 	background-attachment: fixed;
 	color: #fff;
-
-}
-.contact .row
-{
-	padding: 30px 0;
-	font-size: 22px;
-}
-.contact .col-md-4 .fa
-{
-	padding: 10px;
-	font-size: 40px;
-}
-.contact .btn
-{
-	padding: 10px 25px 10px 25px;
-	margin: 5px; 
-	border-radius: 30px;
-	border:2px solid #fff;
-	background: transparent;
-}
-.contact .btn:hover
-{
-	border: 2px solid #000 !important;
-	background: #000 !important;
-	transition: 0.6s;
-}
-.contact .btn .fa
-{
-	margin-right: 10px;	
-}
-.footer
-{
-	background: #000;
-	height:50px;
-	margin-top: 50px;
-	color: #fff;
-	padding: 10px;
-}
-.fa-heart-o
-{
-	color: red;
-}
-/*/*------------------------------icons---------------------------*/
-.social-icons
-{
-	top: 50%;
-	transform: translateY(-50%);
-	position: sticky;
-	z-index: 1;
-	width: 80px;
-}
-.social-icons ul{
-	padding: initial;
-}
-.social-icons ul li{
-	height: 40px;
-	width: 40px;
-	list-style-type: none;
-	padding-left: 12px;
-	padding-top: 6px;
-	margin-top: 5px;
-	color: pink;
-	background: #000;
-}
-.social-icons ul li:hover{
-	padding-left: 30px;
-	width: 80px;
-	transition: 1s
-}
-
-
-
-
-
-
-
-
-
-
